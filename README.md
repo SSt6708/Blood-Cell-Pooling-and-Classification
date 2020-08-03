@@ -17,4 +17,4 @@ Below is the overview of our network architecture.
 
 ![Screen Shot 2020-08-02 at 6 16 36 PM](https://user-images.githubusercontent.com/35588693/89137257-54e6be80-d4ec-11ea-9f11-fe47264d3b00.png)
 
-We achieved an accuracy of 92% with the test data.
+This project was done in Python and the PyTorch library and we achieved an accuracy of 92% with the test data.
