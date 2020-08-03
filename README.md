@@ -1,1 +1,2 @@
-# Artificial-Intelligence-Final-Project
+# Blood Cell Pooling and Classification
+This is a project for our Machine Learning class where we completed it in a group of 4. Counting and distinguishing white blood cells for each patient is critical for diagnosing blood diseases and it takes hours for medical professionals to examine patient's blood samples. The main goal and inspiration behind this project was to use the power of machine learning to automate this process.
